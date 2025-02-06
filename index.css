@@ -1,0 +1,15 @@
+body {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+ul {
+  list-style: none;
+}
+.separator {
+  color: #228d57;
+  font-weight: 900;
+}
+.hw-number {
+  font-weight: 700;
+}
